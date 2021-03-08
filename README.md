@@ -5,7 +5,7 @@
 
 ### My Focus (^._.^)ﾉ
 
-I love to focus on front-end development! I have pinned some projects below that represent my unique interests. 
+I love to focus on front-end development! My projects represent my unique interests. 
 
 ### About Me  =^._.^= 
 
@@ -15,7 +15,7 @@ I graduated with a B.A. in Arabic Language, Literature, & Culture. I have worked
 
     HTML & CSS
 
-  - 📫 How to reach me: ... 🧋
+  - 📫 How to reach me: ... 
 
     Please contact me through LinkedIn or email. Thank you and take care! 
 
