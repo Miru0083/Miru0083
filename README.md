@@ -5,15 +5,15 @@
 
 ### My Focus (^._.^)ﾉ
 
-I love to focus on front-end development! My projects represent my unique interests. 
+I am learning front-end development with the goal to become a web tester. 
 
 ### About Me  =^._.^= 
 
-I graduated with a B.A. in Arabic Language, Literature, & Culture. I have worked in customer service for over 10 years. Despite this, it is not for me. I am interested in a career that allows me to use my imagination while creating something awesome! When I made my first landing page, I knew that front-end was for me!
+I graduated with a B.A. in Arabic Language, Literature, & Culture. I have worked in customer service for over 10 years. I am interested in learning how to make websites and make them accessible for everyone! I would like to become a web tester for web-based applications. 
 
   - 🌱 I’m currently learning ... ☕
 
-    HTML & CSS
+    HTML & CSS, and JavaScript
 
   - 📫 How to reach me: ... 
 
