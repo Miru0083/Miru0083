@@ -5,11 +5,11 @@
 
 ### My Focus (^._.^)ﾉ
 
-I am learning front-end development with the goal to become a web tester. 
+I am learning front-end development. 
 
 ### About Me  =^._.^= 
 
-I graduated with a B.A. in Arabic Language, Literature, & Culture. I have worked in customer service for over 10 years. I am interested in learning how to make websites and make them accessible for everyone! I would like to become a web tester for web-based applications. 
+I'm a Business & Integration Arch Analyst with Accenture! I recently graduated with a Master's degree in Digital Forensics and Cyber Investigation. Currently, I'm learning how to make websites and make them accessible for everyone! 
 
   - 🌱 I’m currently learning ... ☕
 
