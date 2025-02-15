@@ -5,19 +5,20 @@
 
 ### My Focus (^._.^)ﾉ
 
-I am learning front-end development. 
+I'm a front-end developer in training passionate about crafting clean, user-friendly websites. I'm currently studying responsive web development with Skillcrush, where I've completed courses in HTML, CSS, and Git.
 
 ### About Me  =^._.^= 
 
-I'm a Business & Integration Arch Analyst with Accenture! I recently graduated with a Master's degree in Digital Forensics and Cyber Investigation. Currently, I'm learning how to make websites and make them accessible for everyone! 
+I graduated with a Master's degree in Digital Forensics and Cyber Investigation. Even so, when I made my first landing page, I knew that front-end development was for me! Now, I'm currently in Skillcrush's Break Into Tech Program, studying Front-End Development. 
 
   - 🌱 I’m currently learning ... ☕
 
-    HTML & CSS, and JavaScript
+    Responsive Web Development with Skillcrush
+    HTML, CSS, JavaScript (soon!)
 
   - 📫 How to reach me: ... 
 
-    Please contact me through LinkedIn or email. Thank you and take care! 
+    Please get in touch with me through LinkedIn or email. Thank you and take care! 
 
   - ⚡ Fun fact: ...
 
