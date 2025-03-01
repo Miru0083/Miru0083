@@ -3,19 +3,16 @@
 <!--
 **Miru0083/Miru0083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### My Focus (^._.^)ﾉ
-
-I'm a front-end developer in training passionate about crafting clean, user-friendly websites. I'm currently studying responsive web development with Skillcrush, where I've completed courses in HTML, CSS, and Git.
 
 ### About Me  =^._.^= 
 
-I graduated with a Master's degree in Digital Forensics and Cyber Investigation. Even so, when I made my first landing page, I knew that front-end development was for me! Now, I'm currently in Skillcrush's Break Into Tech Program, studying Front-End Development. 
+Hi there! I’m a passionate web developer turned application/software development pre-apprentice on a mission to level up my coding skills. With a strong foundation in front-end development (HTML, CSS, and responsive design), I’m now diving deeper into Python, Agile, secure coding, and cybersecurity awareness to expand my expertise beyond the browser.
 
   - 🌱 I’m currently learning ... ☕
 
-    Responsive Web Development with Skillcrush
+    Application / Software Development with Rightvarsity
     
-    HTML, CSS, JavaScript (soon!)
+    Python
 
   - 📫 How to reach me: ... 
 
