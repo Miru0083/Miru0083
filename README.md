@@ -6,17 +6,15 @@
 
 ### About Me  =^._.^= 
 
-Hi there! I’m a passionate web developer turned application/software development pre-apprentice on a mission to level up my coding skills. With a strong foundation in front-end development (HTML, CSS, and responsive design), I’m now diving deeper into Python, Agile, secure coding, and cybersecurity awareness to expand my expertise beyond the browser.
+Hi there! I’m a passionate web developer transitioning to an application/software developer. I'm on a mission to level up my coding skills. With a strong foundation in front-end development (HTML, CSS, and responsive design), I’m now expanding my expertise by diving deeper into Python, Agile development, secure coding, and cybersecurity awareness, to enhance my capabilities beyond the browser.
 
   - 🌱 I’m currently learning ... ☕
-
-    Application / Software Development with Rightvarsity
     
-    Python
+    Python - City College of San Francisco
 
   - 📫 How to reach me: ... 
 
-    Please get in touch with me through LinkedIn or email. Thank you and take care! 
+    Please contact me through LinkedIn or email. Thank you and take care! 
 
   - ⚡ Fun fact: ...
 
